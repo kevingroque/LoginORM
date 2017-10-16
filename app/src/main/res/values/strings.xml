@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login ORM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register_password">Password</string>
+    <string name="register_fullname">Fullname</string>
+    <string name="register_email">Email</string>
+    <string name="register_save">Registrar</string>
+</resources>
